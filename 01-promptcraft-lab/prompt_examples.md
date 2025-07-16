@@ -27,7 +27,7 @@ If it was part of a team:
 
 Let me know what project or outcome was involved — I can tailor it even more!
 
-![Prompt Screenshot](prompt1.png)
+![Prompt Screenshot](01-promptcraft-lab/prompt1.PNG)
 
 ---
 
