@@ -254,8 +254,7 @@ Stay updated with the latest trends and tools in AI and data analytics.
 By focusing on these areas, you'll significantly enhance your profile and become a strong candidate for AI/Data Analyst roles in India, even as a fresher. Good luck!
 
 ![Prompt Screenshot](prompt4.PNG)
-📄 [Download Sample: Job Role Extractor Prompt](prompt4_Skill_Gap_Analysis.docx)
-
+📄 [Download Sample: Skill Gap Analysis](prompt4_Skill_Gap_Analysis.docx)
 
 
 
