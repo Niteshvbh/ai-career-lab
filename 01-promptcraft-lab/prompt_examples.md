@@ -31,8 +31,6 @@ Let me know what project or outcome was involved — I can tailor it even more!
 
 ---
 
----
-
 ## 🎯 Prompt 2: Cover Letter Generator
 
 ### 🧾 Prompt:
@@ -78,7 +76,6 @@ Sincerely,
 
 ![Prompt Screenshot](prompt2.PNG) 
 📄 [Download Sample: Job Role Extractor Prompt](prompt2_Cover_Letter.docx)
-
 
 ---
 
@@ -153,6 +150,111 @@ Machine Learning Research Engineer (with a focus on model alignment, interpretab
 - Research publications, open-source contributions, risk-sensitive domain experience, and performance optimization for large-scale ML systems.
 - 
 📄 [Download Sample: Job Role Extractor Prompt](prompt3_extract_job_role.docx)
+
+---
+
+## 🎯 Prompt 4: Skill Gap Analyzer
+
+### 🧾 Prompt:
+I have the following skills: Python, Pandas, SQL, Prompt Engineering, Google Data Analytics certification.  
+What other important skills or tools should I learn to become job-ready for an AI/Data Analyst role in India as a fresher?
+
+### 🤖 Google Gemini Response:
+It's great that you already have a solid foundation with Python, Pandas, SQL, Prompt Engineering, and the Google Data Analytics certification! These are highly relevant for an AI/Data Analyst role. To truly become job-ready as a fresher in India, consider focusing on these additional skills and tools:
+
+Key Skills to Acquire:
+Machine Learning Fundamentals:
+
+Core Concepts: Understand supervised, unsupervised, and semi-supervised learning.
+
+Algorithms: Get familiar with popular algorithms like Linear Regression, Logistic Regression, Decision Trees, Random Forests, K-Means Clustering, PCA (Principal Component Analysis). You don't need to be an expert at building them from scratch, but understand their applications and when to use which.
+
+Model Evaluation: Learn about metrics like accuracy, precision, recall, F1-score, ROC-AUC for classification, and RMSE, MAE for regression.
+
+Scikit-learn: This Python library is essential for implementing most machine learning algorithms.
+
+Data Visualization Tools:
+
+Tableau/Power BI: While you might have touched upon some visualization in your Google certificate, hands-on experience with dedicated BI tools like Tableau or Power BI is highly valued. They allow for creating interactive dashboards and reports, which is a crucial part of an analyst's job.
+
+Advanced Python Visualization Libraries: Deepen your knowledge of Matplotlib and Seaborn for creating more customized and publication-quality visualizations.
+
+Cloud Platforms (Basic understanding):
+
+AWS, Azure, or Google Cloud Platform (GCP): Many companies leverage cloud infrastructure for data storage, processing, and machine learning model deployment. Having a basic understanding of services like S3/Blob Storage (data storage), EC2/VMs (compute), and potentially services related to data warehousing (e.g., Snowflake, BigQuery) or machine learning (e.g., AWS SageMaker, Azure ML, GCP AI Platform) will make you stand out. You don't need to be a cloud architect, but knowing how to interact with these platforms for data access and basic model deployment is beneficial.
+
+Statistical Concepts:
+
+Hypothesis Testing: Understanding A/B testing, t-tests, ANOVA.
+
+Probability: Basic probability concepts, distributions (normal, binomial, Poisson).
+
+Inferential Statistics: Drawing conclusions about populations from samples.
+
+While your Google certification would have covered some of this, a deeper dive will be helpful.
+
+Big Data Frameworks (Exposure):
+
+Apache Spark (PySpark): For handling and processing large datasets that don't fit into memory. Many companies use Spark for scalable data operations. Even basic familiarity with PySpark can be a big plus.
+
+Hadoop (HDFS): Understand the basics of distributed file systems, even if you don't use it directly.
+
+Version Control:
+
+Git and GitHub: Essential for collaborating with other developers and analysts, tracking changes in your code, and showcasing your projects.
+
+Communication and Storytelling:
+
+Data Storytelling: Being able to translate complex data insights into clear, concise, and actionable narratives for non-technical stakeholders is paramount. This involves strong presentation skills, effective use of visualizations, and structuring your findings logically.
+
+Business Acumen: Understanding the business context of the data you're analyzing is crucial for providing relevant insights and solutions.
+
+Tools to Learn/Familiarize Yourself With:
+Jupyter Notebooks/Google Colab: For interactive data analysis and sharing code. (You likely use these already, but master them).
+
+Excel: While you'll be using more advanced tools, a good grasp of advanced Excel functions (pivot tables, VLOOKUP, etc.) can still be useful for quick data exploration and reporting in some scenarios.
+
+Integrated Development Environments (IDEs): VS Code or PyCharm for more structured Python development.
+
+Roadmap for Learning:
+Strengthen Machine Learning Basics:
+
+Take online courses (Coursera, edX, Udemy) focusing on "Machine Learning for Data Analysts" or "Applied Machine Learning with Python."
+
+Work through practical examples using scikit-learn.
+
+Master Data Visualization:
+
+Get certified or complete projects in Tableau or Power BI.
+
+Practice creating diverse visualizations with Matplotlib and Seaborn.
+
+Explore Cloud Platforms:
+
+Take introductory courses on AWS/Azure/GCP for data professionals. Focus on data storage, basic compute, and potentially managed database services.
+
+Look for "Cloud Data Engineering" or "Cloud for Data Analysts" tracks.
+
+Practice with Projects:
+
+The most effective way to learn is by doing. Work on personal projects that involve data cleaning, analysis, visualization, and basic machine learning.
+
+Use datasets from Kaggle, UCI Machine Learning Repository, or other public sources.
+
+Showcase these projects on GitHub with clear documentation.
+
+Network and Stay Updated:
+
+Join data science and AI communities (online and offline).
+
+Follow industry experts and thought leaders.
+
+Stay updated with the latest trends and tools in AI and data analytics.
+
+By focusing on these areas, you'll significantly enhance your profile and become a strong candidate for AI/Data Analyst roles in India, even as a fresher. Good luck!
+
+![Prompt Screenshot](prompt4.PNG)
+📄 [Download Sample: Job Role Extractor Prompt](prompt4_Skill_Gap_Analysis.docx)
 
 
 
