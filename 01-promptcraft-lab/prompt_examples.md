@@ -36,7 +36,7 @@ Let me know what project or outcome was involved — I can tailor it even more!
 ### 🧾 Prompt:
 Write a professional cover letter for a fresher data analyst who has completed certifications in Python, Google Data Analytics, and Prompt Engineering. Mention strong motivation to work in AI-related roles and eagerness to learn on the job.
 
-### 🤖 GPT-4 Response:
+### 🤖 Perplexity Response:
 ## Cover Letter: Entry-Level Data Analyst
 
 [Your Name]  
@@ -75,7 +75,7 @@ Sincerely,
 [Your Name]
 
 ![Prompt Screenshot](prompt2.PNG) 
-📄 [Download Sample: Job Role Extractor Prompt](prompt2_Cover_Letter.docx)
+📄 [Download Sample: Cover Letter](prompt2_Cover_Letter.docx)
 
 ---
 
@@ -125,7 +125,7 @@ Open-source contributions: prior work on AI/ML libraries or tooling.
 Domain exposure: risk-sensitive applications in finance, healthcare, or similar fields.
 Performance optimization: familiarity with large-scale training infrastructures.
 
-### 🤖 GPT-4 Response:
+### 🤖 Perplexity Response:
 **Main Job Role:**  
 Machine Learning Research Engineer (with a focus on model alignment, interpretability, robustness, and open-source tooling for foundation models/LLMs)
 
