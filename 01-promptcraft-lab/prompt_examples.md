@@ -77,7 +77,7 @@ Sincerely,
 [Your Name]
 
 ![Prompt Screenshot](prompt2.PNG) 
-![Download PDF: Sample Cover Letter](prompt2_Cover Letter_ Entry-Level Data Analyst.docx)
+📄 [Download Sample: Job Role Extractor Prompt](prompt2_Cover_Letter.docx)
 
 
 ---
@@ -152,7 +152,7 @@ Machine Learning Research Engineer (with a focus on model alignment, interpretab
 **Bonus Skills (not in top 5 but valuable):**
 - Research publications, open-source contributions, risk-sensitive domain experience, and performance optimization for large-scale ML systems.
 - 
-![Download Sample](prompt3Extract the main job role and top 5 required skill.docx) 
+📄 [Download Sample: Job Role Extractor Prompt](prompt3_extract_job_role.docx)
 
 
 
