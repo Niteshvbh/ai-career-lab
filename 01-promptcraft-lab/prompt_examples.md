@@ -76,7 +76,7 @@ Sincerely,
 
 [Your Name]
 
-![Prompt Screenshot](prompt2.PNG)  <-- (Optional)
+![Prompt Screenshot](prompt2.PNG) 
 📄 [Download PDF: Sample Cover Letter](prompt2_Cover Letter_ Entry-Level Data Analyst.pdf)
 
 
