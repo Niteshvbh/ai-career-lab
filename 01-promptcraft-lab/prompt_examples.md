@@ -1,4 +1,4 @@
-# 🧠 PromptCraft Lab – Real-World AI Prompts for Career Growth
+#  🧠 PromptCraft Lab – Real-World AI Prompts for Career Growth
 
 This mini-lab showcases practical prompt engineering to solve real job-search and career problems using GPT-4.
 
@@ -28,6 +28,7 @@ If it was part of a team:
 Let me know what project or outcome was involved — I can tailor it even more!
 
 ![Prompt Screenshot](prompt1.PNG)
+📄 [Download PDF: Sample Cover Letter](cover_letter_sample.pdf)
 
 ---
 
