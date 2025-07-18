@@ -327,6 +327,7 @@ You want to rename only files starting with IMG_,
 Or you're doing this inside Jupyter or Google Colab.
 
 ![Prompt Screenshot](prompt6.PNG)
+📂 [Download Python Script: File Renamer](file_renamer.py)
 
 
 
