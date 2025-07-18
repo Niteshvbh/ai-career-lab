@@ -288,10 +288,8 @@ I have 100 files with names like "IMG_20230716_123453.jpg". Create a Python scri
 Here's a simple Python script that renames files like IMG_20230716_123453.jpg into the format marathi_movie_<number>.jpg:
 
 ✅ Python Script to Rename Files
-python
-Copy
-Edit
-import os
+
+'''import os
 
 # Folder where your image files are located
 folder_path = "path/to/your/folder"  # 🔁 Replace with actual path, e.g., "F:/images"
@@ -309,7 +307,9 @@ for index, filename in enumerate(files, start=1):
     os.rename(old_path, new_path)
     print(f"Renamed: {filename} -> {new_filename}")
 
-print("✅ Renaming completed!")
+print("✅ Renaming completed!")'''
+
+
 📌 Instructions
 Replace path/to/your/folder with the actual folder path where your images are stored.
 
