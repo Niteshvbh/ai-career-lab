@@ -289,7 +289,7 @@ Here's a simple Python script that renames files like IMG_20230716_123453.jpg in
 
 ✅ Python Script to Rename Files
 
-'''import os
+```import os
 
 # Folder where your image files are located
 folder_path = "path/to/your/folder"  # 🔁 Replace with actual path, e.g., "F:/images"
@@ -307,7 +307,7 @@ for index, filename in enumerate(files, start=1):
     os.rename(old_path, new_path)
     print(f"Renamed: {filename} -> {new_filename}")
 
-print("✅ Renaming completed!")'''
+print("✅ Renaming completed!")```
 
 
 📌 Instructions
