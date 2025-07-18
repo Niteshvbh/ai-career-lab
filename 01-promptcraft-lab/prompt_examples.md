@@ -277,5 +277,57 @@ Would you like to personalize the project names or link your GitHub profile dire
 
 ![Prompt Screenshot](prompt5.PNG)
 
+---
+
+## 🎯 Prompt 6: AI File Renamer
+
+### 🧾 Prompt:
+I have 100 files with names like "IMG_20230716_123453.jpg". Create a Python script that can rename them using this pattern: "marathi_movie_<number>.jpg".
+
+### 🤖 GPT-4 Response:
+Here's a simple Python script that renames files like IMG_20230716_123453.jpg into the format marathi_movie_<number>.jpg:
+
+✅ Python Script to Rename Files
+python
+Copy
+Edit
+import os
+
+# Folder where your image files are located
+folder_path = "path/to/your/folder"  # 🔁 Replace with actual path, e.g., "F:/images"
+
+# Get list of files in the folder
+files = [f for f in os.listdir(folder_path) if f.endswith('.jpg')]
+files.sort()  # Optional: sort to ensure consistent ordering
+
+# Rename files
+for index, filename in enumerate(files, start=1):
+    old_path = os.path.join(folder_path, filename)
+    new_filename = f"marathi_movie_{index}.jpg"
+    new_path = os.path.join(folder_path, new_filename)
+
+    os.rename(old_path, new_path)
+    print(f"Renamed: {filename} -> {new_filename}")
+
+print("✅ Renaming completed!")
+📌 Instructions
+Replace path/to/your/folder with the actual folder path where your images are stored.
+
+Run the script using Python.
+
+It will rename all .jpg files to marathi_movie_1.jpg, marathi_movie_2.jpg, etc.
+
+Let me know if:
+
+You want to preserve original names in a log file,
+
+You want to rename only files starting with IMG_,
+
+Or you're doing this inside Jupyter or Google Colab.
+
+![Prompt Screenshot](prompt6.PNG)
+
+
+
 
 More prompts coming soon...
