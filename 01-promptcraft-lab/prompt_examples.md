@@ -256,6 +256,26 @@ By focusing on these areas, you'll significantly enhance your profile and become
 ![Prompt Screenshot](prompt4.PNG)
 📄 [Download Sample: Skill Gap Analysis](prompt4_Skill_Gap_Analysis.docx)
 
+## 🎯 Prompt 5: Resume Section Generator
+
+### 🧾 Prompt:
+Act as an AI resume assistant. Based on this user input — "Completed Python, SQL, Google Data Analytics certificate, and built 2 AI projects on GitHub" — generate a bullet-point summary for the Resume > Projects section.
+
+
+### 🤖 GPT-4 Response:
+Here’s a polished bullet-point summary for the Projects section of your resume:
+
+Projects
+
+✅ Built 2 AI/Data Projects on GitHub: Developed end-to-end Python projects using Pandas, Matplotlib, and Streamlit — including a movie recommendation system and data analysis dashboard.
+
+✅ Applied Certificate Learnings in Real-World Projects: Translated concepts from the Google Data Analytics, Python, and SQL courses into actionable projects with clean code, insights, and visualizations.
+
+✅ Published Work on GitHub: Shared well-documented projects publicly, showcasing skills in data preprocessing, EDA, content-based filtering, and interactive UI development.
+
+Would you like to personalize the project names or link your GitHub profile directly in the resume?
+
+![Prompt Screenshot](prompt5.PNG)
 
 
 More prompts coming soon...
