@@ -331,14 +331,15 @@ Or you're doing this inside Jupyter or Google Colab.
 
 ---
 
-### 👩‍💻 Job Role Explainer – Data Analyst  
-**Prompt:**  
+## 🎯 Prompt 7: Job Role Explainer – Data Analyst  
+
+### 🧾 Prompt:  
 "Explain the role of a Data Analyst in very simple terms, as if you're explaining it to a 10-year-old. Include what tools they use and what kind of problems they solve."
 
-**Use Case:**  
+### 🤖 Use Case: 
 Ideal for career changers or beginners who want to understand job roles clearly using AI.
 
-**GPT Response:**  
+### 🤖 GPT-4 Response:  
 A Data Analyst is like a detective for numbers. Imagine a company has tons of information—like how many people bought a product, how much money they made, or what time people shop the most. A Data Analyst looks at all that information, finds patterns, and helps the company make smart decisions.  
 
 They use tools like Excel, SQL (to talk to databases), Python (to write programs), and dashboards like Tableau or Google Data Studio to show their findings in charts. It’s like solving a puzzle with clues from data!
