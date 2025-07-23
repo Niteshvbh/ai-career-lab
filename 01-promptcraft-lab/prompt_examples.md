@@ -344,6 +344,50 @@ A Data Analyst is like a detective for numbers. Imagine a company has tons of in
 
 They use tools like Excel, SQL (to talk to databases), Python (to write programs), and dashboards like Tableau or Google Data Studio to show their findings in charts. It’s like solving a puzzle with clues from data!
 
+---
+
+## 🎯 Prompt 8: Job Role Generator
+
+### 🧾 Prompt: 
+You are an AI career advisor. I have experience in Python, Excel, and I’m learning machine learning. Your job is to suggest **3 suitable AI-related job roles** and briefly explain why each one fits.
+
+### 🤖 GPT-4 Response (Perplexity):  
+## Top 3 AI-Related Careers for Your Skills
+
+With a background in Python and Excel, plus ongoing learning in machine learning, you have a strong foundation for starting an AI-related career. Here are three roles that fit your skill set and why each is a great match:
+
+### 1. Data Analyst
+
+- **Why it fits:**  
+  Data analysts often use Excel for data cleaning and visualization, and Python for advanced analytics. This role leverages your existing strengths while giving you exposure to data workflows—an ideal entry into AI settings.
+- **Job tasks:**  
+  Collecting and cleaning data, analyzing datasets for trends, automating reports, and building dashboards. Python is increasingly used for automating Excel processes and handling large datasets[1][2][3].
+
+### 2. Junior Machine Learning Engineer
+
+- **Why it fits:**  
+  As you’re learning machine learning, this entry-level engineering role utilizes your Python programming skills to build, test, and deploy machine learning models. It’s perfect for applying your growing ML knowledge on real-world projects[4][5][6].
+- **Job tasks:**  
+  Collaborate with senior engineers, implement supervised and unsupervised algorithms, prepare datasets, and automate model training and evaluation pipelines.
+
+### 3. AI Automation Engineer (Python + Excel)
+
+- **Why it fits:**  
+  This role focuses on automating business processes using Python scripts that interact with Excel and other data tools. It’s ideal if you enjoy solving workflow problems and building practical AI-driven solutions[1][7].
+- **Job tasks:**  
+  Developing automation tools and bots for repetitive business processes, integrating AI/ML models into existing Excel files, enhancing reporting, and optimizing data management.
+
+### Comparison Table
+
+| Job Role                   | Core Skills Utilized       | Typical Responsibilities                             |
+|----------------------------|---------------------------|------------------------------------------------------|
+| Data Analyst               | Python, Excel             | Analyze, visualize, and automate data workflows      |
+| Junior Machine Learning Engineer | Python, ML             | Develop, test, and deploy ML models                  |
+| AI Automation Engineer     | Python, Excel, ML basics  | Build automation, integrate AI with business tools   |
+
+**Tip:** All three roles offer a learning curve—from strengthening automation skills to contributing to AI/ML solutions—so you can grow your expertise while on the job.
+
+![Prompt Screenshot](prompt8_1.PNG) ![Prompt Screenshot](prompt8_2.PNG)
 
 
 More prompts coming soon...
