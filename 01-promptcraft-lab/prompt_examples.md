@@ -387,7 +387,11 @@ With a background in Python and Excel, plus ongoing learning in machine learning
 
 **Tip:** All three roles offer a learning curve—from strengthening automation skills to contributing to AI/ML solutions—so you can grow your expertise while on the job.
 
-![Prompt Screenshot](prompt8_1.PNG) ![Prompt Screenshot](prompt8_2.PNG)
+<p align="center">
+  <img src="prompt8_1.png" width="45%" />
+  <img src="prompt8_2.png" width="45%" />
+</p>
+
 
 
 More prompts coming soon...
