@@ -1,6 +1,6 @@
 #  🧠 PromptCraft Lab – Real-World AI Prompts for Career Growth
 
-This mini-lab showcases practical prompt engineering to solve real job-search and career problems using GPT-4.
+Welcome to PromptCraft Lab – a curated collection of AI prompts designed for resume building, job role matching, skill gap analysis, and interview preparation.
 
 ---
 
