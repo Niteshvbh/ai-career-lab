@@ -2,7 +2,7 @@
 ---
 ![AI Career Lab – PromptCraft Lab](01-promptcraft-lab/Banner.png)
 ---
-I built a PromptCraft Lab with ready-to-use prompts that help:
+### I built a PromptCraft Lab with ready-to-use prompts that help:
 ✅ Analyze job descriptions
 ✅ Identify skill gaps
 ✅ Improve resumes using AI
