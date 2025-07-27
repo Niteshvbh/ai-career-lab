@@ -392,6 +392,8 @@ With a background in Python and Excel, plus ongoing learning in machine learning
   <img src="prompt8_2.png" width="45%" />
 </p>
 
+---
 
+👩‍💻 Created by [Nitesh](https://github.com/Niteshvbh) | Part of the AI Career Lab project 🚀
 
 More prompts coming soon...
